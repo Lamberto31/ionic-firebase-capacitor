@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69871241557",
+    "project_id": "ionic-firebase-capacitor",
+    "storage_bucket": "ionic-firebase-capacitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69871241557:android:cc684d68d444fde0d647dc",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69871241557-v2b90ji3ft2knhvjplrkelcho17604t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUaNDJXrCxH1tFuCTdQ5Al4k4OgvTJUng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69871241557-v2b90ji3ft2knhvjplrkelcho17604t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
